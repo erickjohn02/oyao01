@@ -1,0 +1,77 @@
+nav {
+    overflow: hidden;
+    background: rgb(0,0,0);
+    background: rgba(0,0,0,0);
+    display: flex;
+    flex-wrap: wrap;
+  }
+ nav a {
+        text-decoration: none;
+        display: block;
+        color: black;
+        padding: 20px 25px;
+        text-align: center;
+        margin: 0;
+        font-family: sans-serif;
+      }
+      nav a:hover {
+        background-color: #777777;
+        color: #ffffff;
+      }
+
+.b1
+  {
+    background-image: url('image8.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.b2
+  {
+    background-image: url('image4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.b3
+  {
+    background-image: url('image5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.b4
+  {
+    background-image: url('image6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.b5
+  {
+    background-image: url('image7.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.p1
+{
+  font-size: 110%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+.p2
+{
+  font-size: 110%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+.p3
+{
+  font-size: 110%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
